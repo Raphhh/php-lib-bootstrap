@@ -1,0 +1,26 @@
+{
+    "name": "raphhh/php-lib-bootstrap",
+    "description": "A bootstrap for a PHP lib, including basic common files and settings",
+    "version": "0.0.0",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Raphaël Lefebvre",
+            "email": "raphael@raphaellefebvre.be"
+        }
+    ],
+    "keywords": ["bootstrap"],
+    "homepage": "https://github.com/Raphhh/php-lib-bootstrap",
+    "autoload": {
+        "psr-0": {
+            "PhpLibBootstrap": ["src/", "tests/"]
+        }
+    },
+    "require": {
+        "php": ">=5.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "@stable"
+    }
+}
