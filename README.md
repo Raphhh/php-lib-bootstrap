@@ -1,6 +1,8 @@
-# php-lib-bootstrap
+# Php Lib Bootstrap
 
-A bootstrap for a lib in PHP. This library will install all the basic files and settings to start a PHP library. Don't set, just code!
+A bootstrap for a lib in PHP. Don't set, just code!  
+
+This bootstrap will install all the basic files and settings to start a PHP library. 
 
 
 ## Installation
@@ -28,4 +30,5 @@ $ ./vendor/bin/phpunit
 
 If tests are ok, that means you can start your project.
 You just need to replace composer.json and README.md with your specific info.
+
 After this customisation, just code.
