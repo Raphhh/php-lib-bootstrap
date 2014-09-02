@@ -1,4 +1,4 @@
-# Php Lib Bootstrap
+# PHP Lib Bootstrap
 
 A bootstrap for a lib in PHP. Don't set, just code!  
 
