@@ -15,13 +15,13 @@ $ composer create-project raphhh/php-lib-bootstrap path/to/my/project "dev-maste
 Go into your project.
 
 ```
-$ cd path/to/my/project;
+$ cd path/to/my/project
 ```
 
 Finally, run PHPUnit to test the installation.
 
 ```
-$ ./vendor/bin/phpunit;
+$ ./vendor/bin/phpunit
 ```
 
 ## Customisation
