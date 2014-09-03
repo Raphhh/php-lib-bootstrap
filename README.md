@@ -21,7 +21,7 @@ This bootstrap will install all the basic files and settings to start a PHP libr
 First, use composer to create your project. (Note that composer will also create all the repositories if they do not exist.)
 
 ```
-$ composer create-project raphhh/php-lib-bootstrap path/to/my/project "dev-master"
+$ composer create-project raphhh/php-lib-bootstrap path/to/my/project
 ```
 
 Go into your project.
