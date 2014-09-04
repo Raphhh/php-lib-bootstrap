@@ -1,7 +1,6 @@
 {
     "name": "raphhh/php-lib-bootstrap",
     "description": "A bootstrap for a PHP lib, including basic common files and settings",
-    "version": "1.0.0",
     "type": "library",
     "license": "MIT",
     "authors": [
