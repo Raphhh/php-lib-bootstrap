@@ -6,6 +6,7 @@ class DummyTest extends \PHPUnit_Framework_TestCase
 
     public function testDummy()
     {
-        $this->assertTrue(true);
+        $dummy = new Dummy();
+        $this->assertTrue($dummy->getTrue());
     }
 }
