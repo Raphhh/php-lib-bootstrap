@@ -12,8 +12,15 @@
     "keywords": ["bootstrap"],
     "homepage": "https://github.com/Raphhh/php-lib-bootstrap",
     "autoload": {
-        "psr-0": {
-            "PhpLibBootstrap": ["src/", "tests/"]
+        "psr-4": {
+            "PhpLibBootstrap\\": [
+                "src/",
+                "tests/"
+            ],
+            "": [
+                "src/",
+                "tests/"
+            ]
         }
     },
     "require": {
