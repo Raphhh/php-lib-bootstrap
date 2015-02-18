@@ -13,10 +13,6 @@
     "homepage": "https://github.com/Raphhh/php-lib-bootstrap",
     "autoload": {
         "psr-4": {
-            "PhpLibBootstrap\\": [
-                "src/",
-                "tests/"
-            ],
             "": [
                 "src/",
                 "tests/"

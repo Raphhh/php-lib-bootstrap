@@ -1,6 +1,4 @@
 <?php
-namespace PhpLibBootstrap;
-
 class DummyTest extends \PHPUnit_Framework_TestCase
 {
 
