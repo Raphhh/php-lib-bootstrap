@@ -17,8 +17,17 @@ This bootstrap will install all the basic files and settings to start a PHP libr
 
 ## Installation
 
+### With Samurai (recommended)
 
-First, use composer to create your project. (Note that composer will also create all the repositories if they do not exist.)
+Just execute [Samurai](https://github.com/Raphhh/samurai) with 'lib' boostrap.
+
+```
+$ samurai new lib
+```
+
+### With Composer
+
+First, use [Composer](https://getcomposer.org/) to create your project. (Note that composer will also create all the repositories if they do not exist.)
 
 ```
 $ composer create-project raphhh/php-lib-bootstrap path/to/my/project
@@ -35,8 +44,6 @@ Finally, run PHPUnit to test the installation.
 ```
 $ ./vendor/bin/phpunit
 ```
-
-## Customisation
 
 If tests are ok, that means you can start your project.
 You just need to replace composer.json and README.md with your specific info.
