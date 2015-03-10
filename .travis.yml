@@ -12,6 +12,10 @@ before_install:
 install:
   - composer install --no-interaction --prefer-source
 
+#before_script:
+  #- mysql -u root -e 'CREATE DATABASE testbase;'
+  #- mysql -u root testbase < resources/testbase.sql
+  
 script: 
   - phpunit --coverage-clover=coverage.clover
 
