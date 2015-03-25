@@ -9,7 +9,7 @@
             "email": "raphael@raphaellefebvre.be"
         }
     ],
-    "keywords": ["bootstrap"],
+    "keywords": ["bootstrap", "samurai"],
     "homepage": "https://github.com/Raphhh/php-lib-bootstrap",
     "autoload": {
         "psr-4": {
