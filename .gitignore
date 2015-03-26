@@ -11,4 +11,4 @@ composer.lock
 
 
 ### PHPUnit ###
-/phpunit.xml
+phpunit.xml
