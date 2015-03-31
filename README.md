@@ -27,7 +27,7 @@ $ samurai new lib
 
 ### With Composer
 
-First, use [Composer](https://getcomposer.org/) to create your project. (Note that composer will also create all the repositories if they do not exist.)
+First, execute [Composer](https://getcomposer.org/) to create your project.
 
 ```
 $ composer create-project raphhh/php-lib-bootstrap path/to/my/project
@@ -39,13 +39,4 @@ Go into your project.
 $ cd path/to/my/project
 ```
 
-Finally, run PHPUnit to test the installation.
-
-```
-$ ./vendor/bin/phpunit
-```
-
-If tests are ok, that means you can start your project.
-You just need to replace composer.json and README.md with your specific info.
-
-After this customisation, just code.
+Then, you need to replace composer.json with your specific info.
