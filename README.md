@@ -37,7 +37,6 @@ This assumes you'll use [Git](http://git-scm.com/) for vcs,
     ├── phpunit.xml.dist
     └── README.md
 
-- "public" is the web entry point.
 - "src" contains all your PHP code.
 - "tests" contains all your PHP tests. See [PHPUnit](https://phpunit.de/) for more information.
 - "vendor" contains all your PHP dependencies. See [Composer](https://getcomposer.org/) for more information.
